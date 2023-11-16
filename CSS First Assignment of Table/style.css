@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#nav1 {
+    background-color: rgba(0, 0, 0, 0.521);
+}
+#nav2 {
+    padding: 20px;
+    text-align: right;
+}
+#nav2 a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#nav2 a:hover
+{
+background-color:white;
+color:red;
+border-radius: 10px;
+}
+#nav3 {
+    color: #420cd6af;
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    text-shadow: 4px 4px 4px orangered;
+    box-shadow: 10px 10px 10px red;
+}
+#nav4 {
+    color: blue;
+    position: fixed;
+    right: 100px;
+    top: 100px;
+}
+.a {
+    background-color: rgba(56, 228, 21, 0.493);
+}
+.b {
+    background-color: rgba(60, 248, 248, 0.76);
+}
+.c {
+    background-color: rgba(139, 194, 231, 0.856);
+}
+.d {
+    background-color: rgba(202, 221, 31, 0.671)
+}
+
+button .a{
+    background-color: green;
+    border-radius: 5px;
+}
+button .a{
+    background-color: red ;
+    border-radius: 5px;
+}
+#nav5 {
+        background-color: rgba(0, 0, 0, 0.521);
+        padding:  20px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+display: flex;
+    justify-content:space-around;
+
